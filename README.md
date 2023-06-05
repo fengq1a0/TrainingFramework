@@ -1,1 +1,1 @@
-# TrainningFramework
+# TrainingFramework
